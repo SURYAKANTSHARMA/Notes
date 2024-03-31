@@ -5,6 +5,11 @@ Notes is a simple and elegant note-taking app built for iOS devices. Whether you
 # Features
 Create and edit notes effortlessly
 
+### Watch a Demo
+
+<img src= "Resources/Demo.gif" width="200" height = "400">
+
+
 # Contributing
 We welcome contributions from the community to make Notes even better. Whether you're a seasoned developer or just getting started, there are plenty of ways to contribute:
 
@@ -19,3 +24,6 @@ If you have any questions, feedback, or need assistance with Notes, feel free to
 
 # License
 Notes is open-source software licensed under the MIT License. See the LICENSE file for more information.
+
+
+
