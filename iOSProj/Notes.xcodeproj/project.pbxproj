@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		D8880D242B11CE6C00285BE8 /* AddNoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8880D232B11CE6C00285BE8 /* AddNoteView.swift */; };
+		D89B9D132BB96BD600227465 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89B9D122BB96BD600227465 /* HomeViewModel.swift */; };
+		D89B9D152BB96C0B00227465 /* HomeService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89B9D142BB96C0B00227465 /* HomeService.swift */; };
+		D89B9D172BB96C4200227465 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89B9D162BB96C4200227465 /* Note.swift */; };
 		D8F865E32B0AE9F400F48DDA /* NotesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F865E22B0AE9F400F48DDA /* NotesApp.swift */; };
 		D8F865E52B0AE9F400F48DDA /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F865E42B0AE9F400F48DDA /* HomeView.swift */; };
 		D8F865E72B0AE9F600F48DDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8F865E62B0AE9F600F48DDA /* Assets.xcassets */; };
@@ -16,6 +19,9 @@
 
 /* Begin PBXFileReference section */
 		D8880D232B11CE6C00285BE8 /* AddNoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNoteView.swift; sourceTree = "<group>"; };
+		D89B9D122BB96BD600227465 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		D89B9D142BB96C0B00227465 /* HomeService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeService.swift; sourceTree = "<group>"; };
+		D89B9D162BB96C4200227465 /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
 		D8F865DF2B0AE9F400F48DDA /* Notes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Notes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8F865E22B0AE9F400F48DDA /* NotesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesApp.swift; sourceTree = "<group>"; };
 		D8F865E42B0AE9F400F48DDA /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
@@ -56,6 +62,9 @@
 				D8F865E22B0AE9F400F48DDA /* NotesApp.swift */,
 				D8F865E42B0AE9F400F48DDA /* HomeView.swift */,
 				D8880D232B11CE6C00285BE8 /* AddNoteView.swift */,
+				D89B9D122BB96BD600227465 /* HomeViewModel.swift */,
+				D89B9D142BB96C0B00227465 /* HomeService.swift */,
+				D89B9D162BB96C4200227465 /* Note.swift */,
 				D8F865E62B0AE9F600F48DDA /* Assets.xcassets */,
 				D8F865E82B0AE9F600F48DDA /* Preview Content */,
 			);
@@ -143,6 +152,9 @@
 				D8880D242B11CE6C00285BE8 /* AddNoteView.swift in Sources */,
 				D8F865E52B0AE9F400F48DDA /* HomeView.swift in Sources */,
 				D8F865E32B0AE9F400F48DDA /* NotesApp.swift in Sources */,
+				D89B9D132BB96BD600227465 /* HomeViewModel.swift in Sources */,
+				D89B9D152BB96C0B00227465 /* HomeService.swift in Sources */,
+				D89B9D172BB96C4200227465 /* Note.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
