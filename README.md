@@ -1,8 +1,6 @@
-# Notes
-FullStack:- Server node.js database mongo with Swift
 
 # Overview
-Notes is a simple and elegant note-taking app built for iOS devices. Whether you need to jot down quick thoughts, make to-do lists, or organize your ideas, Notes has you covered. With its intuitive user interface and powerful features, Notes makes it easy to capture and manage your notes on the go. Build with Swift and Node.js 
+Notes is a simple and elegant note-taking app built for iOS devices. Whether you need to jot down quick thoughts, make to-do lists, or organize your ideas, Notes has you covered. With its intuitive user interface and powerful features, Notes makes it easy to capture and manage your notes on the go. Build with Swift and Server Node.js and mongo DB 
 
 # Features
 Create and edit notes effortlessly
